@@ -39,4 +39,4 @@ Analyzed NHTSA 2021 highway crash data to identify patterns, risks, and safety p
 
 ---
 **Ronald Ricardo Tambunan** - Data Analyst | Balikpapan  
-[Portfolio](https://ronaldricardo.github.io/main)
+[Portfolio](https://ronaldricardo.github.io/ronaldricardo)
